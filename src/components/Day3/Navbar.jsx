@@ -5,7 +5,7 @@ import './Navbar.css';
 function Navbar() {
   return (
     <nav>
-      <Link to="/">Day1</Link> | <Link to="/Day2">Day2</Link> | <Link to="/Day3">Day3</Link> | <Link to="/Day4">Day4</Link>
+      <Link to="/">1stExc</Link> | <Link to="/Day2">2ndExc</Link> | <Link to="/Day3">3rdExc</Link> | <Link to="/Day4">4thExc</Link>
     </nav>
   );
 }
