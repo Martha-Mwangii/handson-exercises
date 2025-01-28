@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Header from './Header';
-import TaskList from './TaskList';
+import TaskList from '../TaskList';
 import './Day2.css';
 //import image1 from "../../assets/image1.jpg";
 
